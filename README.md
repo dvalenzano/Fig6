@@ -1,4 +1,5 @@
 ### This repository contains code and data used to generate the qvalue plot for Fig6
+For each subpanel, e.g. Figure 6A, 6B, and so forth, go into each subfolder and follow the instructions.
 ####Files:
 [go_qval.tsv](https://github.com/dvalenzano/Fig6/blob/master/go_qval.tsv "go_qval.tsv") contains the qvalues from the random forest analysis over all the markers of cross 1.  
 [qqvall_g.csv](https://github.com/dvalenzano/Fig6/blob/master/qqvall_g.csv "qqvall_g.csv") contains the positions of all the markers along the linkage map.  
